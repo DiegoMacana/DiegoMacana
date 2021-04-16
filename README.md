@@ -1,4 +1,4 @@
-![](https://github.com/DiegoMacana/DiegoMacana/blob/main/1444801595_keatboard.gif)
+![](https://github.com/DiegoMacana/DiegoMacana/blob/main/Avenged%20Sevenfold.gif)
 
 ### Hi there 👋
 
