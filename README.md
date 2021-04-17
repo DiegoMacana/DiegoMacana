@@ -23,7 +23,7 @@
 > Desde pequeño he sido creativo y curioso. Desde que descubrí mi forma de ser supe que 
 > lo mío seria la programación. Últimamente me siento atraído por la docencia, ya que 
 > enseñar temas tan contemporáneos supondría un reto para mí.
-
+> 
 > No dire que soy responsable, disciplinado/ eficiente ya que es lo minimo que deberia 
 > tener una persona para llegar a la vida profesional, encambio podria decir que soy 
 > de mente abierta, siempre dispuesto a cambios! 
