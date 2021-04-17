@@ -22,11 +22,12 @@
 > Soy un programador de la ciudad de Bogotá-Colombia actualmente trabajo en Python, Java.
 > Desde pequeño he sido creativo y curioso. Desde que descubrí mi forma de ser supe que 
 > lo mío seria la programación. Últimamente me siento atraído por la docencia, ya que 
-> enseñar temas tan contemporáneos supondría un reto para mí.
+> enseñar temas tan contemporáneos a un reto para mí.
 > 
-> No dire que soy responsable, disciplinado/ eficiente ya que es lo minimo que deberia 
-> tener una persona para llegar a la vida profesional, encambio podria decir que soy 
-> de mente abierta, siempre dispuesto a cambios! 
+> No diré que soy responsable, disciplinado/ eficiente ya que es lo mínimo que debería 
+> tener una persona para llegar a la vida profesional, en cambio podría decir que soy 
+> de mente abierta, siempre dispuesto a cambios!
+
 
 ### Programador de:
 - ![](https://github.com/DiegoMacana/DiegoMacana/blob/main/python-logo.png)
