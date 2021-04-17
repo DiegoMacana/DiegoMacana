@@ -1,4 +1,5 @@
 ![](https://github.com/DiegoMacana/DiegoMacana/blob/main/Avenged%20Sevenfold.gif)
+![](https://github.com/DiegoMacana/DiegoMacana/blob/main/python-logo.png)
 
 ### Hi there 👋
 
