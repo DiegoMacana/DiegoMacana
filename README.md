@@ -17,6 +17,7 @@
 :watermelon: Correo Universidad: diego.macana@mail.escuelaing.edu.co
 
 ---
+### Acerca de mi:
 ### Programador de:
 - ![](https://github.com/DiegoMacana/DiegoMacana/blob/main/python-logo.png)
 
