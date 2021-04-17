@@ -32,10 +32,10 @@
 - ![](https://github.com/DiegoMacana/DiegoMacana/blob/main/python-logo.png)
 - ![](https://github.com/DiegoMacana/DiegoMacana/blob/main/Java-Logo-300x189.jpg)
 
+---
+### Actualmente:
 
-
-
-- 🔭 I’m currently working on ...
+- 🔭 Estoy Trabajando en: Snake Game :snake: "_proyecto de la universidad_"
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
