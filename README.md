@@ -16,6 +16,10 @@
 :penguin: Gmail: diego.makana@gmail.com
 :watermelon: Correo Universidad: diego.macana@mail.escuelaing.edu.co
 
+---
+###Programador de:
+- ![](https://github.com/DiegoMacana/DiegoMacana/blob/main/python-logo.png)
+
 
 <!--
 **DiegoMacana/DiegoMacana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
