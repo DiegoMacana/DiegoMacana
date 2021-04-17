@@ -20,7 +20,7 @@
 ### Acerca de mi:
 
 > Soy un programador de la ciudad de Bogotá-Colombia actualmente trabajo en Python, Java.
-> Desde pequeño he sido creativo y curioso. Desde que descubrí mi forma de ser supe que 
+> Desde pequeño he sido creativo y curioso. Desde que descubrí mi forma de ser, supe que 
 > lo mío seria la programación. Últimamente me siento atraído por la docencia, ya que 
 > enseñar temas tan contemporáneos a un reto para mí.
 > 
