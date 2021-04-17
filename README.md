@@ -20,13 +20,15 @@
 ### Acerca de mi:
 
 > Soy un programador de la ciudad de Bogotá-Colombia actualmente trabajo en Python, Java.
-> Desde pequeño he sido creativo y curioso. Desde que descubrí mi forma de ser, supe que 
+> Desde pequeño he sido creativo y curioso. Desde que descubrí mis aptitudes supe que 
 > lo mío seria la programación. Últimamente me siento atraído por la docencia, ya que 
-> enseñar temas tan contemporáneos a un reto para mí.
+> enseñar temas tan contemporáneos ha sido un reto para mí.
 > 
 > No diré que soy responsable, disciplinado/ eficiente ya que es lo mínimo que debería 
 > tener una persona para llegar a la vida profesional, en cambio podría decir que soy 
 > de mente abierta, siempre dispuesto a cambios!
+
+
 
 
 ### Programador de:
@@ -37,10 +39,11 @@
 ### Actualmente:
 
 - 🔭 Estoy Trabajando en: Snake Game :snake: "_proyecto de la universidad_"
-- 🌱 Actualmente estoy Apendiento:  C++, Oracle SQL
+- 🌱 Actualmente estoy Aprendiendo:  C++, Oracle SQL
 - 👯 Buscando en colaborar en: Youtube creando contenido de Python
-- 🤔 Busco ayuda en: Ediccion de videos, si conoces a alguien, ¡agradezco el contacto!
-- 💬 Me puedes preguntar sobre: Algoritmos en programacion, logica de programacion
+- 🤔 Busco ayuda en: Edición de videos, si conoces a alguien, ¡agradezco el contacto!
+- 💬 Me puedes preguntar sobre: Algoritmos en programación, lógica de programación
 - 😄 Apodos: Bueno aun no tengo ninguno fijo, busco nombre para el canal de Youtube :stuck_out_tongue_closed_eyes:
 - ⚡ Dato Curioso: me encanta el Taekwondo y el Basketball. *Amo el anime*
+
 
