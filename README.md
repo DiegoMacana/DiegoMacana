@@ -5,7 +5,7 @@
 
 
 
-### ✨Hola chic@s bienvenidos a mi perfil 👋
+### ✨ _Hola chic@s bienvenidos a mi perfil_ 👋
 ---
 ### redes para contactar conmigo:
 
