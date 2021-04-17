@@ -30,6 +30,7 @@
 
 ### Programador de:
 - ![](https://github.com/DiegoMacana/DiegoMacana/blob/main/python-logo.png)
+- ![](https://github.com/DiegoMacana/DiegoMacana/blob/main/Java-Logo-300x189.jpg)
 
 
 
