@@ -14,6 +14,7 @@
 :snowflake: Whatsapp: +57 313 204 6146
 
 :penguin: Gmail: diego.makana@gmail.com
+:watermelon: Correo Universidad: diego.macana@mail.escuelaing.edu.co
 
 
 <!--
