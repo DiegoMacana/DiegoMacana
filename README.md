@@ -13,6 +13,8 @@
 :skull: Facebook: [Diego Makana](https://www.facebook.com/diego.makana/)
 :snowflake: Whatsapp: +57 313 204 6146
 
+:penguin: Gmail: diego.makana@gmail.com
+
 
 <!--
 **DiegoMacana/DiegoMacana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
