@@ -18,14 +18,21 @@
 
 ---
 ### Acerca de mi:
+
+Soy un programador de la ciudad de Bogotá-Colombia actualmente trabajo en Python, Java.
+Desde pequeño he sido creativo y curioso. Desde que descubrí mi forma de ser supe que 
+lo mío seria la programación. Últimamente me siento atraído por la docencia, ya que 
+enseñar temas tan contemporáneos supondría un reto para mí.
+
+No dire que soy responsable, disciplinado/ eficiente ya que es lo minimo que deberia 
+tener una persona para llegar a la vida profesional, encambio podria decir que soy 
+de mente abierta, siempre dispuesto a cambios! 
+
 ### Programador de:
 - ![](https://github.com/DiegoMacana/DiegoMacana/blob/main/python-logo.png)
 
 
-<!--
-**DiegoMacana/DiegoMacana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -35,4 +42,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
