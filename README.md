@@ -10,7 +10,7 @@
 ### redes para contactar conmigo:
 
 :collision: Instagram: 
-:skull: Facebook: 
+:skull: Facebook: [Diego Makana](https://www.facebook.com/diego.makana/)
 :snowflake: Whatsapp: +57 313 204 6146
 
 
