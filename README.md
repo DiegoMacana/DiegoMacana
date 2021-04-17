@@ -4,7 +4,14 @@
 
 
 
-### Hi there 👋
+### ✨Hola chic@s bienvenidos a mi perfil 👋
+---
+### redes para contactar conmigo:
+
+:collision: Instagram: 
+:skull: Facebook: 
+:snowflake: Whatsapp: +57 313 204 6146
+
 
 <!--
 **DiegoMacana/DiegoMacana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
