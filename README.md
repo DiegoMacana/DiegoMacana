@@ -43,7 +43,7 @@
 - 👯 Buscando en colaborar en: Youtube creando contenido de Python
 - 🤔 Busco ayuda en: Edición de videos, si conoces a alguien, ¡agradezco el contacto!
 - 💬 Me puedes preguntar sobre: Algoritmos en programación, lógica de programación
-- 😄 Apodos: mis amigos me dicen makako... busco nombre para el canal de Youtube :stuck_out_tongue_closed_eyes:
+- 😄 Apodos: mis amigos me dicen makako 🐒... busco nombre para el canal de Youtube :stuck_out_tongue_closed_eyes:
 - ⚡ Dato Curioso: me encanta el Taekwondo y el Basketball. *Amo el anime*
 
 
