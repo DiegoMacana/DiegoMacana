@@ -38,12 +38,13 @@
 ---
 ### Actualmente:
 
-- 🔭 Estoy Trabajando en: Snake Game :snake: "_proyecto de la universidad_"
+- 🔭 Estoy Trabajando en: Ciclos de desarrollo de sofware
 - 🌱 Actualmente estoy Aprendiendo:  C++, Oracle SQL
 - 👯 Buscando en colaborar en: Youtube creando contenido de Python
 - 🤔 Busco ayuda en: Edición de videos, si conoces a alguien, ¡agradezco el contacto!
 - 💬 Me puedes preguntar sobre: Algoritmos en programación, lógica de programación
 - 😄 Apodos: mis amigos me dicen makako 🐒... busco nombre para el canal de Youtube :stuck_out_tongue_closed_eyes:
-- ⚡ Dato Curioso: me encanta el Taekwondo y el Basketball. *Amo el anime*
+- ⚡ Deportes: me encanta el Basketball, VoleyBall, Natacion, Taekwondo
+- :rabbit2: Arte: toco la guitarra y la flauta, tambien se dibujar y practico el teatro
 
 
